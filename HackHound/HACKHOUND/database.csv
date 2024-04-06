@@ -1,0 +1,915 @@
+S No,Name,Maths,Science,English,Social Science,Language Subject,Language Subject Marks,Optional Subject,Optional Subject Marks,Year,Board
+1,Aarav Deshmukh,85,90,80,75,Marathi,80,Computer Science,85,2024,Maharashtra Board
+2,Ananya Patel,90,88,92,85,Gujarati,82,Music,88,2024,Gujarat Board
+3,Rohan Singh,78,82,85,79,Bengali,87,Physical Education,90,2024,West Bengal Board
+4,Kavya Sharma,92,85,88,90,Punjabi,84,Dance,86,2024,Punjab Board
+5,Vedika Reddy,80,92,85,88,Telugu,88,Arts,82,2024,Telangana Board
+6,Ishaan Gupta,88,90,84,87,Hindi,85,Psychology,88,2024,CBSE
+7,Nisha Verma,82,84,87,85,Tamil,90,Sociology,85,2024,Tamil Nadu Board
+8,Arjun Kumar,85,88,90,82,Kannada,82,Music,90,2024,Karnataka Board
+9,Priya Sharma,78,80,82,85,Odia,85,Arts,88,2024,Odisha Board
+10,Siddharth Singh,90,85,88,84,Malayalam,88,Dance,82,2024,Kerala Board
+11,Aryan Kapoor,85,82,90,88,Hindi,82,Arts,90,2024,CBSE
+12,Siya Reddy,82,90,84,87,Telugu,90,Psychology,84,2024,Telangana Board
+13,Yuvraj Singh,88,85,80,92,Punjabi,85,Sociology,80,2024,Punjab Board
+14,Anvi Patel,85,88,90,82,Gujarati,88,Music,90,2024,Gujarat Board
+15,Advik Sharma,78,82,85,89,Marathi,82,Dance,85,2024,Maharashtra Board
+16,Myra Verma,92,85,88,85,Bengali,85,Arts,88,2024,West Bengal Board
+17,Aradhya Singh,80,92,85,88,Tamil,92,Psychology,85,2024,Tamil Nadu Board
+18,Vihaan Gupta,88,90,84,85,Kannada,90,Sociology,84,2024,Karnataka Board
+19,Aaradhya Patel,82,84,87,90,Odia,84,Arts,87,2024,Odisha Board
+20,Saanvi Sharma,90,85,88,84,Malayalam,85,Music,88,2024,Kerala Board
+21,Aryan Kumar,85,88,90,82,Hindi,88,Dance,90,2024,CBSE
+22,Anvi Singh,82,85,84,87,Telugu,85,Psychology,84,2024,Telangana Board
+23,Arjun Reddy,88,80,82,90,Punjabi,80,Arts,82,2024,Punjab Board
+24,Siya Patel,85,90,84,87,Gujarati,90,Sociology,84,2024,Gujarat Board
+25,Yuvraj Sharma,90,82,85,89,Marathi,82,Music,85,2024,Maharashtra Board
+26,Ananya Singh,82,85,88,84,Bengali,85,Dance,88,2024,West Bengal Board
+27,Aarav Gupta,85,88,90,82,Tamil,88,Psychology,90,2024,Tamil Nadu Board
+28,Myra Patel,88,90,84,85,Kannada,90,Arts,84,2024,Karnataka Board
+29,Advik Singh,78,82,85,89,Odia,82,Sociology,85,2024,Odisha Board
+30,Saanvi Patel,92,85,88,84,Malayalam,85,Music,88,2024,Kerala Board
+31,Aryan Reddy,80,82,87,90,Hindi,82,Dance,87,2024,CBSE
+32,Anvi Reddy,85,88,90,82,Telugu,88,Psychology,90,2024,Telangana Board
+33,Arjun Patel,82,85,84,87,Punjabi,85,Arts,84,2024,Punjab Board
+34,Siya Singh,88,90,84,85,Gujarati,90,Sociology,84,2024,Gujarat Board
+35,Yuvraj Reddy,90,82,85,89,Marathi,82,Music,85,2024,Maharashtra Board
+36,Ananya Reddy,82,85,88,84,Bengali,85,Dance,88,2024,West Bengal Board
+37,Aarav Reddy,85,88,90,82,Tamil,88,Psychology,90,2024,Tamil Nadu Board
+38,Myra Reddy,88,90,84,85,Kannada,90,Arts,84,2024,Karnataka Board
+39,Advik Singh,78,82,85,89,Odia,82,Sociology,85,2024,Odisha Board
+40,Saanvi Patel,92,85,88,84,Malayalam,85,Music,88,2024,Kerala Board
+41,Aryan Patel,80,82,87,90,Hindi,82,Dance,87,2024,CBSE
+42,Anvi Reddy,85,88,90,82,Telugu,88,Psychology,90,2024,Telangana Board
+43,Arjun Patel,82,85,84,87,Punjabi,85,Arts,84,2024,Punjab Board
+44,Siya Singh,88,90,84,85,Gujarati,90,Sociology,84,2024,Gujarat Board
+45,Yuvraj Reddy,90,82,85,89,Marathi,82,Music,85,2024,Maharashtra Board
+46,Ananya Reddy,82,85,88,84,Bengali,85,Dance,88,2024,West Bengal Board
+47,Aarav Reddy,85,88,90,82,Tamil,88,Psychology,90,2024,Tamil Nadu Board
+48,Myra Reddy,88,90,84,85,Kannada,90,Arts,84,2024,Karnataka Board
+49,Advik Singh,78,82,85,89,Odia,82,Sociology,85,2024,Odisha Board
+50,Saanvi Patel,92,85,88,84,Malayalam,85,Music,88,2024,Kerala Board
+51,Anushka Sharma,70,72,75,78,Marathi,75,Arts,72,2024,Maharashtra Board
+52,Aditya Patel,68,70,72,75,Gujarati,72,Music,70,2024,Gujarat Board
+53,Arnav Singh,65,68,70,72,Bengali,70,Dance,68,2024,West Bengal Board
+54,Aaradhya Gupta,62,65,68,70,Punjabi,68,Physical Education,65,2024,Punjab Board
+55,Avni Reddy,60,62,65,68,Telugu,65,Psychology,62,2024,Telangana Board
+56,Krish Patel,55,60,62,65,Hindi,62,Arts,60,2024,CBSE
+57,Riya Singh,50,55,60,62,Tamil,60,Music,55,2024,Tamil Nadu Board
+58,Shaurya Kumar,45,50,55,60,Kannada,55,Dance,50,2024,Karnataka Board
+59,Sara Reddy,40,45,50,55,Odia,50,Arts,45,2024,Odisha Board
+60,Aditi Sharma,35,40,45,50,Malayalam,45,Sociology,40,2024,Kerala Board
+61,Armaan Singh,30,35,40,45,Hindi,40,Psychology,35,2024,CBSE
+62,Ananya Reddy,25,30,35,40,Telugu,35,Arts,30,2024,Telangana Board
+63,Rohan Patel,20,25,30,35,Punjabi,30,Dance,25,2024,Punjab Board
+64,Anushka Singh,15,20,25,30,Gujarati,25,Arts,20,2024,Gujarat Board
+65,Aditya Reddy,10,15,20,25,Marathi,20,Music,15,2024,Maharashtra Board
+66,Arnav Sharma,5,10,15,20,Bengali,15,Dance,10,2024,West Bengal Board
+67,Aaradhya Gupta,3,5,10,15,Telugu,10,Psychology,5,2024,Telangana Board
+68,Avni Singh,2,3,5,10,Kannada,5,Arts,3,2024,Karnataka Board
+69,Krish Patel,1,2,3,5,Tamil,3,Music,2,2024,Tamil Nadu Board
+70,Riya Reddy,0,1,2,3,Odia,2,Sociology,1,2024,Odisha Board
+71,Shaurya Sharma,0,0,1,2,Malayalam,1,Psychology,0,2024,Kerala Board
+72,Sara Singh,0,0,0,1,Hindi,0,Arts,0,2024,CBSE
+73,Aditi Reddy,0,0,0,0,Telugu,0,Dance,0,2024,Telangana Board
+74,Armaan Patel,0,0,0,0,Punjabi,0,Arts,0,2024,Punjab Board
+75,Ananya Sharma,0,0,0,0,Gujarati,0,Music,0,2024,Gujarat Board
+76,Aditya Singh,0,0,0,0,Marathi,0,Sociology,0,2024,Maharashtra Board
+77,Arnav Reddy,0,0,0,0,Bengali,0,Psychology,0,2024,West Bengal Board
+78,Aaradhya Kumar,0,0,0,0,Tamil,0,Arts,0,2024,Tamil Nadu Board
+79,Avni Patel,0,0,0,0,Kannada,0,Dance,0,2024,Karnataka Board
+101,Aditya Kumar,75,78,80,82,Marathi,78,Psychology,80,2024,Maharashtra Board
+102,Anika Gupta,78,80,82,75,Gujarati,80,Arts,82,2024,Gujarat Board
+103,Arjun Reddy,80,82,75,78,Bengali,82,Music,75,2024,West Bengal Board
+104,Ayush Patel,82,75,78,80,Punjabi,75,Dance,78,2024,Punjab Board
+105,Bhavya Singh,75,78,80,82,Telugu,78,Physical Education,80,2024,Telangana Board
+106,Chaitanya Sharma,78,80,82,75,Hindi,80,Arts,82,2024,CBSE
+107,Dhruv Verma,80,82,75,78,Tamil,82,Sociology,75,2024,Tamil Nadu Board
+108,Ekta Kumar,82,75,78,80,Kannada,75,Music,78,2024,Karnataka Board
+109,Farhan Patel,75,78,80,82,Odia,78,Dance,80,2024,Odisha Board
+110,Gauri Reddy,78,80,82,75,Malayalam,80,Psychology,82,2024,Kerala Board
+111,Hemant Singh,80,82,75,78,Hindi,82,Arts,75,2024,CBSE
+112,Inaya Singh,82,75,78,80,Telugu,75,Music,78,2024,Telangana Board
+113,Jay Patel,75,78,80,82,Punjabi,78,Dance,80,2024,Punjab Board
+114,Krishna Reddy,78,80,82,75,Gujarati,80,Physical Education,82,2024,Gujarat Board
+115,Leena Sharma,80,82,75,78,Marathi,82,Psychology,75,2024,Maharashtra Board
+116,Mohit Singh,82,75,78,80,Bengali,75,Arts,78,2024,West Bengal Board
+117,Neha Verma,75,78,80,82,Tamil,78,Music,80,2024,Tamil Nadu Board
+118,Ojasvi Kumar,78,80,82,75,Kannada,80,Dance,82,2024,Karnataka Board
+119,Pranav Patel,80,82,75,78,Odia,82,Psychology,75,2024,Odisha Board
+120,Queenie Reddy,82,75,78,80,Malayalam,75,Arts,78,2024,Kerala Board
+121,Rahul Singh,75,78,80,82,Hindi,78,Music,80,2024,CBSE
+122,Sneha Reddy,78,80,82,75,Telugu,80,Sociology,82,2024,Telangana Board
+123,Tanishka Patel,80,82,75,78,Punjabi,82,Dance,75,2024,Punjab Board
+124,Uday Sharma,82,75,78,80,Gujarati,75,Arts,78,2024,Gujarat Board
+125,Vikram Singh,75,78,80,82,Marathi,78,Physical Education,80,2024,Maharashtra Board
+126,Yash Verma,78,80,82,75,Bengali,80,Psychology,82,2024,West Bengal Board
+127,Zara Patel,80,82,75,78,Tamil,82,Arts,75,2024,Tamil Nadu Board
+128,Aryan Kumar,82,75,78,80,Kannada,75,Music,78,2024,Karnataka Board
+129,Akshay Patel,75,78,80,82,Odia,78,Dance,80,2024,Odisha Board
+130,Ananya Reddy,78,80,82,75,Malayalam,80,Psychology,82,2024,Kerala Board
+131,Arnav Singh,80,82,75,78,Hindi,82,Arts,75,2024,CBSE
+132,Ayush Reddy,82,75,78,80,Telugu,75,Music,78,2024,Telangana Board
+133,Bhavna Patel,75,78,80,82,Punjabi,78,Dance,80,2024,Punjab Board
+134,Chetan Sharma,78,80,82,75,Gujarati,80,Physical Education,82,2024,Gujarat Board
+135,Deepika Singh,80,82,75,78,Marathi,82,Psychology,75,2024,Maharashtra Board
+136,Ekta Reddy,82,75,78,80,Bengali,75,Arts,78,2024,West Bengal Board
+137,Farhan Kumar,75,78,80,82,Tamil,78,Music,80,2024,Tamil Nadu Board
+138,Gaurav Patel,78,80,82,75,Kannada,80,Dance,82,2024,Karnataka Board
+139,Himanshu Reddy,80,82,75,78,Odia,82,Psychology,75,2024,Odisha Board
+140,Ishita Sharma,82,75,78,80,Malayalam,75,Arts,78,2024,Kerala Board
+141,Jatin Singh,75,78,80,82,Hindi,78,Music,80,2024,CBSE
+142,Kritika Patel,78,80,82,75,Telugu,80,Sociology,82,2024,Telangana Board
+143,Lakshay Singh,80,82,75,78,Punjabi,82,Dance,75,2024,Punjab Board
+144,Mohini Sharma,82,75,78,80,Gujarati,75,Arts,78,2024,Gujarat Board
+145,Nikhil Kumar,75,78,80,82,Marathi,78,Physical Education,80,2024,Maharashtra Board
+146,Priya Verma,78,80,82,75,Bengali,80,Psychology,82,2024,West Bengal Board
+147,Rahul Reddy,80,82,75,78,Tamil,82,Arts,75,2024,Tamil Nadu Board
+148,Sakshi Patel,82,75,78,80,Kannada,75,Music,78,2024,Karnataka Board
+149,Saurabh Reddy,75,78,80,82,Odia,78,Dance,80,2024,Odisha Board
+150,Tanya Sharma,78,80,82,75,Malayalam,80,Psychology,82,2024,Kerala Board
+151,Varun Singh,80,82,75,78,Hindi,82,Arts,75,2024,CBSE
+152,Yashvi Patel,82,75,78,80,Telugu,75,Music,78,2024,Telangana Board
+153,Zoya Reddy,75,78,80,82,Punjabi,78,Sociology,80,2024,Punjab Board
+154,Anand Sharma,78,80,82,75,Gujarati,80,Physical Education,82,2024,Gujarat Board
+155,Dhruv Reddy,80,82,75,78,Marathi,82,Psychology,75,2024,Maharashtra Board
+156,Ekta Singh,82,75,78,80,Bengali,75,Arts,78,2024,West Bengal Board
+157,Farhan Sharma,75,78,80,82,Tamil,78,Music,80,2024,Tamil Nadu Board
+158,Gaurav Reddy,78,80,82,75,Kannada,80,Dance,82,2024,Karnataka Board
+159,Himanshu Patel,80,82,75,78,Odia,82,Psychology,75,2024,Odisha Board
+160,Ishita Reddy,82,75,78,80,Malayalam,75,Arts,78,2024,Kerala Board
+161,Jatin Kumar,75,78,80,82,Hindi,78,Music,80,2024,CBSE
+162,Kritika Reddy,78,80,82,75,Telugu,80,Sociology,82,2024,Telangana Board
+163,Lakshay Patel,80,82,75,78,Punjabi,82,Dance,75,2024,Punjab Board
+164,Mohini Reddy,82,75,78,80,Gujarati,75,Arts,78,2024,Gujarat Board
+165,Nikhil Sharma,75,78,80,82,Marathi,78,Physical Education,80,2024,Maharashtra Board
+166,Priya Singh,78,80,82,75,Bengali,80,Psychology,82,2024,West Bengal Board
+167,Rahul Sharma,80,82,75,78,Tamil,82,Arts,75,2024,Tamil Nadu Board
+168,Sakshi Reddy,82,75,78,80,Kannada,75,Music,78,2024,Karnataka Board
+169,Saurabh Patel,75,78,80,82,Odia,78,Dance,80,2024,Odisha Board
+170,Tanya Reddy,78,80,82,75,Malayalam,80,Psychology,82,2024,Kerala Board
+171,Varun Sharma,80,82,75,78,Hindi,82,Arts,75,2024,CBSE
+172,Yashvi Reddy,82,75,78,80,Telugu,75,Music,78,2024,Telangana Board
+173,Zoya Patel,75,78,80,82,Punjabi,78,Sociology,80,2024,Punjab Board
+174,Anand Reddy,78,80,82,75,Gujarati,80,Physical Education,82,2024,Gujarat Board
+175,Dhruv Sharma,80,82,75,78,Marathi,82,Psychology,75,2024,Maharashtra Board
+176,Ekta Reddy,82,75,78,80,Bengali,75,Arts,78,2024,West Bengal Board
+177,Farhan Singh,75,78,80,82,Tamil,78,Music,80,2024,Tamil Nadu Board
+178,Gaurav Sharma,78,80,82,75,Kannada,80,Dance,82,2024,Karnataka Board
+179,Himanshu Reddy,80,82,75,78,Odia,82,Psychology,75,2024,Odisha Board
+180,Ishita Patel,82,75,78,80,Malayalam,75,Arts,78,2024,Kerala Board
+181,Aryan Gupta,98,97,99,96,Marathi,96,Music,97,2024,Maharashtra Board
+182,Ananya Singh,97,98,96,99,Gujarati,99,Dance,98,2024,Gujarat Board
+183,Arjun Sharma,96,99,97,98,Bengali,98,Physical Education,96,2024,West Bengal Board
+184,Aarav Patel,99,96,98,97,Punjabi,97,Arts,98,2024,Punjab Board
+185,Avani Reddy,98,97,99,96,Telugu,96,Psychology,97,2024,Telangana Board
+186,Shreya Kumar,97,98,96,99,Hindi,99,Sociology,98,2024,CBSE
+187,Vivek Verma,96,99,97,98,Tamil,98,Music,96,2024,Tamil Nadu Board
+188,Aishwarya Gupta,99,96,98,97,Kannada,97,Dance,98,2024,Karnataka Board
+189,Rahul Reddy,98,97,99,96,Odia,96,Arts,97,2024,Odisha Board
+190,Sneha Sharma,97,98,96,99,Malayalam,99,Psychology,98,2024,Kerala Board
+191,Yash Singh,96,99,97,98,Hindi,98,Arts,96,2024,CBSE
+192,Ishika Patel,99,96,98,97,Telugu,97,Music,98,2024,Telangana Board
+193,Kabir Kumar,98,97,99,96,Punjabi,96,Dance,97,2024,Punjab Board
+194,Aditi Reddy,97,98,96,99,Gujarati,99,Physical Education,98,2024,Gujarat Board
+195,Krishna Sharma,96,99,97,98,Marathi,98,Psychology,96,2024,Maharashtra Board
+196,Anushka Singh,99,96,98,97,Bengali,97,Arts,98,2024,West Bengal Board
+197,Raj Patel,98,97,99,96,Tamil,96,Music,97,2024,Tamil Nadu Board
+198,Samaira Reddy,97,98,96,99,Kannada,99,Dance,98,2024,Karnataka Board
+199,Vishal Gupta,96,99,97,98,Odia,98,Psychology,96,2024,Odisha Board
+200,Kavya Sharma,99,96,98,97,Malayalam,96,Arts,97,2024,Kerala Board
+201,Anshul Singh,98,97,99,96,Hindi,96,Music,97,2024,CBSE
+202,Arpita Patel,97,98,96,99,Telugu,99,Sociology,98,2024,Telangana Board
+203,Karan Kumar,96,99,97,98,Punjabi,98,Dance,96,2024,Punjab Board
+204,Rahul Sharma,99,96,98,97,Gujarati,97,Physical Education,98,2024,Gujarat Board
+205,Alisha Gupta,98,97,99,96,Marathi,96,Psychology,97,2024,Maharashtra Board
+206,Vedant Singh,97,98,96,99,Bengali,99,Arts,98,2024,West Bengal Board
+207,Anushka Verma,96,99,97,98,Tamil,98,Music,96,2024,Tamil Nadu Board
+208,Rohit Reddy,99,96,98,97,Kannada,97,Dance,98,2024,Karnataka Board
+209,Aarav Gupta,98,97,99,96,Odia,96,Psychology,97,2024,Odisha Board
+210,Ananya Sharma,97,98,96,99,Malayalam,99,Arts,98,2024,Kerala Board
+211,Arjun Singh,96,99,97,98,Hindi,98,Music,96,2024,CBSE
+212,Ayush Patel,99,96,98,97,Telugu,97,Sociology,98,2024,Telangana Board
+213,Bhavya Kumar,98,97,99,96,Punjabi,96,Physical Education,97,2024,Punjab Board
+214,Chahat Sharma,97,98,96,99,Gujarati,99,Arts,98,2024,Gujarat Board
+215,Daksh Gupta,96,99,97,98,Marathi,98,Dance,96,2024,Maharashtra Board
+216,Eshaan Singh,99,96,98,97,Bengali,97,Psychology,98,2024,West Bengal Board
+217,Farhan Verma,98,97,99,96,Tamil,96,Music,97,2024,Tamil Nadu Board
+218,Garima Reddy,97,98,96,99,Kannada,99,Sociology,98,2024,Karnataka Board
+219,Harsh Patel,96,99,97,98,Odia,98,Dance,96,2024,Odisha Board
+220,Ishita Reddy,99,96,98,97,Malayalam,97,Psychology,98,2024,Kerala Board
+221,Jay Patel,98,97,99,96,Hindi,96,Arts,97,2024,CBSE
+222,Karina Singh,97,98,96,99,Telugu,99,Music,98,2024,Telangana Board
+223,Lakshya Reddy,96,99,97,98,Punjabi,98,Dance,96,2024,Punjab Board
+224,Mohit Sharma,99,96,98,97,Gujarati,97,Physical Education,98,2024,Gujarat Board
+225,Neha Gupta,98,97,99,96,Marathi,96,Psychology,97,2024,Maharashtra Board
+226,Arnav Reddy,90,85,88,84,Hindi,85,Music,88,2024,ICSE
+227,Anika Gupta,78,80,82,75,Hindi,80,Music,82,2024,CISCE
+228,Aryan Patel,92,94,90,88,Hindi,94,Physical Education,90,2024,IB
+229,Aditi Sharma,82,75,78,80,Hindi,75,Dance,78,2024,ICSE
+230,Bhavya Singh,75,78,80,82,Hindi,78,Dance,80,2024,CISCE
+231,Karan Reddy,94,92,88,90,Hindi,92,Psychology,88,2024,IB
+232,Ishaan Gupta,85,90,88,82,Hindi,90,Psychology,88,2024,ICSE
+233,Ananya Patel,80,82,75,78,Hindi,82,Sociology,75,2024,CISCE
+234,Vikram Reddy,96,95,92,94,Hindi,95,Arts,92,2024,IB
+235,Aditya Kumar,75,80,82,78,Hindi,80,Arts,82,2024,ICSE
+236,Anushka Sharma,98,96,95,97,Hindi,96,Music,95,2024,CISCE
+237,Arnav Singh,90,88,85,92,Hindi,88,Music,85,2024,IB
+238,Ayush Patel,82,78,75,80,Hindi,78,Dance,75,2024,ICSE
+239,Ananya Gupta,94,90,92,88,Hindi,90,Psychology,92,2024,CISCE
+240,Aarav Reddy,88,85,90,84,Hindi,85,Sociology,90,2024,IB
+241,Aditi Reddy,75,82,78,80,Hindi,82,Arts,78,2024,ICSE
+242,Bhavna Singh,80,75,82,78,Hindi,75,Arts,82,2024,CISCE
+243,Krishna Patel,95,92,96,94,Hindi,92,Physical Education,96,2024,IB
+244,Aishwarya Reddy,85,88,84,90,Hindi,88,Psychology,84,2024,ICSE
+245,Anshul Gupta,96,95,97,92,Hindi,95,Dance,97,2024,CISCE
+246,Arjun Sharma,92,94,90,88,Hindi,94,Music,90,2024,IB
+247,Aditi Sharma,78,80,82,75,Hindi,80,Psychology,82,2024,ICSE
+248,Anika Reddy,90,85,88,84,Hindi,85,Sociology,88,2024,CISCE
+249,Aryan Patel,92,94,90,88,Hindi,94,Arts,90,2024,IB
+250,Aditya Kumar,75,80,82,78,Hindi,80,Physical Education,82,2024,ICSE
+251,Anushka Sharma,98,96,95,97,Hindi,96,Psychology,95,2024,CISCE
+252,Arnav Singh,90,88,85,92,Hindi,88,Arts,85,2024,IB
+253,Ayush Patel,82,78,75,80,Hindi,78,Music,75,2024,ICSE
+254,Ananya Gupta,94,90,92,88,Hindi,90,Dance,92,2024,CISCE
+255,Aarav Reddy,88,85,90,84,Hindi,85,Psychology,90,2024,IB
+256,Aditi Reddy,75,82,78,80,Hindi,82,Sociology,78,2024,ICSE
+257,Bhavna Singh,80,75,82,78,Hindi,75,Arts,82,2024,CISCE
+258,Krishna Patel,95,92,96,94,Hindi,92,Music,96,2024,IB
+259,Aishwarya Reddy,85,88,84,90,Hindi,88,Physical Education,84,2024,ICSE
+260,Anshul Gupta,96,95,97,92,Hindi,95,Psychology,97,2024,CISCE
+261,Arjun Sharma,92,94,90,88,Hindi,94,Dance,90,2024,IB
+262,Aditi Sharma,78,80,82,75,Hindi,80,Arts,82,2024,ICSE
+263,Anika Reddy,90,85,88,84,Hindi,85,Music,88,2024,CISCE
+264,Aryan Patel,92,94,90,88,Hindi,94,Psychology,90,2024,IB
+265,Aditya Kumar,75,80,82,78,Hindi,80,Sociology,82,2024,ICSE
+266,Anushka Sharma,98,96,95,97,Hindi,96,Arts,95,2024,CISCE
+267,Arnav Singh,90,88,85,92,Hindi,88,Physical Education,85,2024,IB
+268,Ayush Patel,82,78,75,80,Hindi,78,Psychology,75,2024,ICSE
+269,Ananya Gupta,94,90,92,88,Hindi,90,Sociology,92,2024,CISCE
+270,Aarav Reddy,88,85,90,84,Hindi,85,Music,90,2024,IB
+271,Aditi Reddy,75,82,78,80,Hindi,82,Psychology,78,2024,ICSE
+272,Bhavna Singh,80,75,82,78,Hindi,75,Arts,82,2024,CISCE
+273,Krishna Patel,95,92,96,94,Hindi,92,Physical Education,96,2024,IB
+274,Aishwarya Reddy,85,88,84,90,Hindi,88,Psychology,84,2024,ICSE
+275,Anshul Gupta,96,95,97,92,Hindi,95,Dance,97,2024,CISCE
+1,Aditya Kumar,75,78,80,82,Hindi,78,Music,80,2022,ICSE
+2,Anika Gupta,78,80,82,75,Hindi,80,Music,82,2022,CISCE
+3,Aryan Patel,92,94,90,88,Hindi,94,Physical Education,90,2022,IB
+4,Aditi Sharma,82,75,78,80,Hindi,75,Dance,78,2022,CBSE
+5,Bhavya Singh,75,78,80,82,Hindi,78,Dance,80,2022,Gujarat Board
+6,Karan Reddy,94,92,88,90,Hindi,92,Psychology,88,2022,Tamil Nadu Board
+7,Ishaan Gupta,85,90,88,82,Hindi,90,Psychology,88,2022,West Bengal Board
+8,Ananya Patel,80,82,75,78,Hindi,82,Sociology,75,2022,Karnataka Board
+9,Vikram Reddy,96,95,92,94,Hindi,95,Arts,92,2022,Maharashtra Board
+10,Aditya Kumar,75,80,82,78,Hindi,80,Arts,82,2022,ICSE
+11,Anushka Sharma,98,96,95,97,Hindi,96,Music,95,2022,CISCE
+12,Arnav Singh,90,88,85,92,Hindi,88,Music,85,2022,IB
+13,Aditi Sharma,78,80,82,75,Hindi,80,Psychology,82,2022,CBSE
+14,Anika Reddy,90,85,88,84,Hindi,85,Sociology,88,2022,Gujarat Board
+15,Aryan Patel,92,94,90,88,Hindi,94,Arts,90,2022,Tamil Nadu Board
+16,Aditya Kumar,75,80,82,78,Hindi,80,Physical Education,82,2022,West Bengal Board
+17,Anushka Sharma,98,96,95,97,Hindi,96,Psychology,95,2022,Karnataka Board
+18,Arnav Singh,90,88,85,92,Hindi,88,Arts,85,2022,Maharashtra Board
+19,Ayush Patel,82,78,75,80,Hindi,78,Music,75,2022,ICSE
+20,Ananya Gupta,94,90,92,88,Hindi,90,Dance,92,2022,CISCE
+21,Aarav Reddy,88,85,90,84,Hindi,85,Psychology,90,2022,IB
+22,Aditi Reddy,75,82,78,80,Hindi,82,Sociology,78,2022,CBSE
+23,Bhavna Singh,80,75,82,78,Hindi,75,Arts,82,2022,Gujarat Board
+24,Krishna Patel,95,92,96,94,Hindi,92,Physical Education,96,2022,Tamil Nadu Board
+25,Aishwarya Reddy,85,88,84,90,Hindi,88,Psychology,84,2022,West Bengal Board
+26,Anshul Gupta,96,95,97,92,Hindi,95,Dance,97,2022,Karnataka Board
+27,Aditya Kumar,75,78,80,82,Hindi,78,Music,80,2023,ICSE
+28,Anika Gupta,78,80,82,75,Hindi,80,Music,82,2023,CISCE
+29,Aryan Patel,92,94,90,88,Hindi,94,Physical Education,90,2023,IB
+30,Aditi Sharma,82,75,78,80,Hindi,75,Dance,78,2023,CBSE
+31,Bhavya Singh,75,78,80,82,Hindi,78,Dance,80,2023,Gujarat Board
+32,Karan Reddy,94,92,88,90,Hindi,92,Psychology,88,2023,Tamil Nadu Board
+33,Ishaan Gupta,85,90,88,82,Hindi,90,Psychology,88,2023,West Bengal Board
+34,Ananya Patel,80,82,75,78,Hindi,82,Sociology,75,2023,Karnataka Board
+35,Vikram Reddy,96,95,92,94,Hindi,95,Arts,92,2023,Maharashtra Board
+36,Aditya Kumar,75,80,82,78,Hindi,80,Arts,82,2023,ICSE
+37,Anushka Sharma,98,96,95,97,Hindi,96,Music,95,2023,CISCE
+38,Arnav Singh,90,88,85,92,Hindi,88,Music,85,2023,IB
+39,Aditi Sharma,78,80,82,75,Hindi,80,Psychology,82,2023,CBSE
+40,Anika Reddy,90,85,88,84,Hindi,85,Sociology,88,2023,Gujarat Board
+41,Aryan Patel,92,94,90,88,Hindi,94,Arts,90,2023,Tamil Nadu Board
+42,Aditya Kumar,75,80,82,78,Hindi,80,Physical Education,82,2023,West Bengal Board
+43,Anushka Sharma,98,96,95,97,Hindi,96,Psychology,95,2023,Karnataka Board
+44,Arnav Singh,90,88,85,92,Hindi,88,Arts,85,2023,Maharashtra Board
+45,Ayush Patel,82,78,75,80,Hindi,78,Music,75,2023,ICSE
+46,Ananya Gupta,94,90,92,88,Hindi,90,Dance,92,2023,CISCE
+47,Aarav Reddy,88,85,90,84,Hindi,85,Psychology,90,2023,IB
+48,Aditi Reddy,75,82,78,80,Hindi,82,Sociology,78,2023,CBSE
+49,Bhavna Singh,80,75,82,78,Hindi,75,Arts,82,2023,Gujarat Board
+50,Krishna Patel,95,92,96,94,Hindi,92,Physical Education,96,2023,Tamil Nadu Board
+51,Aishwarya Reddy,85,88,84,90,Hindi,88,Psychology,84,2023,West Bengal Board
+52,Anshul Gupta,96,95,97,92,Hindi,95,Dance,97,2023,Karnataka Board
+53,Aditya Kumar,75,78,80,82,Hindi,78,Music,80,2022,ICSE
+54,Anika Gupta,78,80,82,75,Hindi,80,Music,82,2022,CISCE
+55,Aryan Patel,92,94,90,88,Hindi,94,Physical Education,90,2022,IB
+56,Aditi Sharma,82,75,78,80,Hindi,75,Dance,78,2022,CBSE
+57,Bhavya Singh,75,78,80,82,Hindi,78,Dance,80,2022,Gujarat Board
+58,Karan Reddy,94,92,88,90,Hindi,92,Psychology,88,2022,Tamil Nadu Board
+59,Ishaan Gupta,85,90,88,82,Hindi,90,Psychology,88,2022,West Bengal Board
+60,Ananya Patel,80,82,75,78,Hindi,82,Sociology,75,2022,Karnataka Board
+61,Vikram Reddy,96,95,92,94,Hindi,95,Arts,92,2022,Maharashtra Board
+62,Aditya Kumar,75,80,82,78,Hindi,80,Arts,82,2022,ICSE
+63,Anushka Sharma,98,96,95,97,Hindi,96,Music,95,2022,CISCE
+64,Arnav Singh,90,88,85,92,Hindi,88,Music,85,2022,IB
+65,Aditi Sharma,78,80,82,75,Hindi,80,Psychology,82,2022,CBSE
+66,Anika Reddy,90,85,88,84,Hindi,85,Sociology,88,2022,Gujarat Board
+67,Aryan Patel,92,94,90,88,Hindi,94,Arts,90,2022,Tamil Nadu Board
+68,Aditya Kumar,75,80,82,78,Hindi,80,Physical Education,82,2022,West Bengal Board
+69,Anushka Sharma,98,96,95,97,Hindi,96,Psychology,95,2022,Karnataka Board
+70,Arnav Singh,90,88,85,92,Hindi,88,Arts,85,2022,Maharashtra Board
+71,Ayush Patel,82,78,75,80,Hindi,78,Music,75,2022,ICSE
+72,Ananya Gupta,94,90,92,88,Hindi,90,Dance,92,2022,CISCE
+73,Aarav Reddy,88,85,90,84,Hindi,85,Psychology,90,2022,IB
+74,Aditi Reddy,75,82,78,80,Hindi,82,Sociology,78,2022,CBSE
+75,Bhavna Singh,80,75,82,78,Hindi,75,Arts,82,2022,Gujarat Board
+76,Krishna Patel,95,92,96,94,Hindi,92,Physical Education,96,2022,Tamil Nadu Board
+77,Aishwarya Reddy,85,88,84,90,Hindi,88,Psychology,84,2022,West Bengal Board
+78,Anshul Gupta,96,95,97,92,Hindi,95,Dance,97,2022,Karnataka Board
+79,Aditya Kumar,75,78,80,82,Hindi,78,Music,80,2022,ICSE
+80,Anika Gupta,78,80,82,75,Hindi,80,Music,82,2022,CISCE
+81,Aryan Patel,92,94,90,88,Hindi,94,Physical Education,90,2022,IB
+82,Aditi Sharma,82,75,78,80,Hindi,75,Dance,78,2022,CBSE
+83,Bhavya Singh,75,78,80,82,Hindi,78,Dance,80,2022,Gujarat Board
+84,Karan Reddy,94,92,88,90,Hindi,92,Psychology,88,2022,Tamil Nadu Board
+85,Ishaan Gupta,85,90,88,82,Hindi,90,Psychology,88,2022,West Bengal Board
+86,Ananya Patel,80,82,75,78,Hindi,82,Sociology,75,2022,Karnataka Board
+87,Vikram Reddy,96,95,92,94,Hindi,95,Arts,92,2022,Maharashtra Board
+88,Aditya Kumar,75,80,82,78,Hindi,80,Arts,82,2022,ICSE
+89,Anushka Sharma,98,96,95,97,Hindi,96,Music,95,2022,CISCE
+90,Arnav Singh,90,88,85,92,Hindi,88,Music,85,2022,IB
+91,Aditi Sharma,78,80,82,75,Hindi,80,Psychology,82,2022,CBSE
+92,Anika Reddy,90,85,88,84,Hindi,85,Sociology,88,2022,Gujarat Board
+93,Aryan Patel,92,94,90,88,Hindi,94,Arts,90,2022,Tamil Nadu Board
+94,Aditya Kumar,75,80,82,78,Hindi,80,Physical Education,82,2022,West Bengal Board
+95,Anushka Sharma,98,96,95,97,Hindi,96,Psychology,95,2022,Karnataka Board
+96,Arnav Singh,90,88,85,92,Hindi,88,Arts,85,2022,Maharashtra Board
+97,Ayush Patel,82,78,75,80,Hindi,78,Music,75,2022,ICSE
+98,Ananya Gupta,94,90,92,88,Hindi,90,Dance,92,2022,CISCE
+99,Aarav Reddy,88,85,90,84,Hindi,85,Psychology,90,2022,IB
+100,Aditi Reddy,75,82,78,80,Hindi,82,Sociology,78,2022,CBSE
+101,Aditya Kumar,75,78,80,82,Hindi,78,Music,80,2023,ICSE
+102,Anika Gupta,78,80,82,75,Hindi,80,Music,82,2023,CISCE
+103,Aryan Patel,92,94,90,88,Hindi,94,Physical Education,90,2023,IB
+104,Aditi Sharma,82,75,78,80,Hindi,75,Dance,78,2023,CBSE
+105,Bhavya Singh,75,78,80,82,Hindi,78,Dance,80,2023,Gujarat Board
+106,Karan Reddy,94,92,88,90,Hindi,92,Psychology,88,2023,Tamil Nadu Board
+107,Ishaan Gupta,85,90,88,82,Hindi,90,Psychology,88,2023,West Bengal Board
+108,Ananya Patel,80,82,75,78,Hindi,82,Sociology,75,2023,Karnataka Board
+109,Vikram Reddy,96,95,92,94,Hindi,95,Arts,92,2023,Maharashtra Board
+110,Aditya Kumar,75,80,82,78,Hindi,80,Arts,82,2023,ICSE
+111,Anushka Sharma,98,96,95,97,Hindi,96,Music,95,2023,CISCE
+112,Arnav Singh,90,88,85,92,Hindi,88,Music,85,2023,IB
+113,Aditi Sharma,78,80,82,75,Hindi,80,Psychology,82,2023,CBSE
+114,Anika Reddy,90,85,88,84,Hindi,85,Sociology,88,2023,Gujarat Board
+115,Aryan Patel,92,94,90,88,Hindi,94,Arts,90,2023,Tamil Nadu Board
+116,Aditya Kumar,75,80,82,78,Hindi,80,Physical Education,82,2023,West Bengal Board
+117,Anushka Sharma,98,96,95,97,Hindi,96,Psychology,95,2023,Karnataka Board
+118,Arnav Singh,90,88,85,92,Hindi,88,Arts,85,2023,Maharashtra Board
+119,Ayush Patel,82,78,75,80,Hindi,78,Music,75,2023,ICSE
+120,Ananya Gupta,94,90,92,88,Hindi,90,Dance,92,2023,CISCE
+121,Aarav Reddy,88,85,90,84,Hindi,85,Psychology,90,2023,IB
+122,Aditi Reddy,75,82,78,80,Hindi,82,Sociology,78,2023,CBSE
+123,Bhavna Singh,80,75,82,78,Hindi,75,Arts,82,2023,Gujarat Board
+124,Krishna Patel,95,92,96,94,Hindi,92,Physical Education,96,2023,Tamil Nadu Board
+125,Aishwarya Reddy,85,88,84,90,Hindi,88,Psychology,84,2023,West Bengal Board
+126,Anshul Gupta,96,95,97,92,Hindi,95,Dance,97,2023,Karnataka Board
+127,Aditya Kumar,75,78,80,82,Hindi,78,Music,80,2023,ICSE
+128,Anika Gupta,78,80,82,75,Hindi,80,Music,82,2023,CISCE
+129,Aryan Patel,92,94,90,88,Hindi,94,Physical Education,90,2023,IB
+130,Aditi Sharma,82,75,78,80,Hindi,75,Dance,78,2023,CBSE
+131,Bhavya Singh,75,78,80,82,Hindi,78,Dance,80,2023,Gujarat Board
+132,Karan Reddy,94,92,88,90,Hindi,92,Psychology,88,2023,Tamil Nadu Board
+133,Ishaan Gupta,85,90,88,82,Hindi,90,Psychology,88,2023,West Bengal Board
+134,Ananya Patel,80,82,75,78,Hindi,82,Sociology,75,2023,Karnataka Board
+135,Vikram Reddy,96,95,92,94,Hindi,95,Arts,92,2023,Maharashtra Board
+136,Aditya Kumar,75,80,82,78,Hindi,80,Arts,82,2023,ICSE
+137,Anushka Sharma,98,96,95,97,Hindi,96,Music,95,2023,CISCE
+138,Arnav Singh,90,88,85,92,Hindi,88,Music,85,2023,IB
+139,Aditi Sharma,78,80,82,75,Hindi,80,Psychology,82,2023,CBSE
+140,Anika Reddy,90,85,88,84,Hindi,85,Sociology,88,2023,Gujarat Board
+141,Aditya Kumar,75,78,80,82,Hindi,82,Music,80,2022,ICSE
+142,Anika Gupta,78,80,82,75,Hindi,75,Music,82,2022,CISCE
+143,Aryan Patel,92,94,90,88,Hindi,88,Physical Education,90,2022,IB
+144,Aditi Sharma,82,75,78,80,Hindi,80,Dance,78,2022,CBSE
+145,Bhavya Singh,75,78,80,82,Hindi,82,Dance,80,2022,Gujarat Board
+146,Karan Reddy,94,92,88,90,Hindi,90,Psychology,88,2022,Tamil Nadu Board
+147,Ishaan Gupta,85,90,88,82,Hindi,82,Psychology,88,2022,West Bengal Board
+148,Ananya Patel,80,82,75,78,Hindi,78,Sociology,75,2022,Karnataka Board
+149,Vikram Reddy,96,95,92,94,Hindi,94,Arts,92,2022,Maharashtra Board
+150,Aditya Kumar,75,80,82,78,Hindi,78,Arts,82,2022,ICSE
+151,Anushka Sharma,98,96,95,97,Hindi,97,Music,95,2022,CISCE
+152,Arnav Singh,90,88,85,92,Hindi,92,Music,85,2022,IB
+153,Aditi Sharma,78,80,82,75,Hindi,75,Psychology,82,2022,CBSE
+154,Anika Reddy,90,85,88,84,Hindi,84,Sociology,88,2022,Gujarat Board
+155,Aryan Patel,92,94,90,88,Hindi,88,Arts,90,2022,Tamil Nadu Board
+156,Aditya Kumar,75,80,82,78,Hindi,78,Physical Education,82,2022,West Bengal Board
+157,Anushka Sharma,98,96,95,97,Hindi,97,Psychology,95,2022,Karnataka Board
+158,Arnav Singh,90,88,85,92,Hindi,92,Arts,85,2022,Maharashtra Board
+159,Ayush Patel,82,78,75,80,Hindi,80,Music,75,2022,ICSE
+160,Ananya Gupta,94,90,92,88,Hindi,88,Dance,92,2022,CISCE
+161,Aarav Reddy,88,85,90,84,Hindi,84,Psychology,90,2022,IB
+162,Aditi Reddy,75,82,78,80,Hindi,80,Sociology,78,2022,CBSE
+163,Bhavna Singh,80,75,82,78,Hindi,78,Arts,82,2022,Gujarat Board
+164,Krishna Patel,95,92,96,94,Hindi,94,Physical Education,96,2022,Tamil Nadu Board
+165,Aishwarya Reddy,85,88,84,90,Hindi,90,Psychology,84,2022,West Bengal Board
+166,Anshul Gupta,96,95,97,92,Hindi,92,Dance,97,2022,Karnataka Board
+167,Aditya Kumar,75,78,80,82,Hindi,82,Music,80,2022,ICSE
+168,Anika Gupta,78,80,82,75,Hindi,75,Music,82,2022,CISCE
+169,Aryan Patel,92,94,90,88,Hindi,88,Physical Education,90,2022,IB
+170,Aditi Sharma,82,75,78,80,Hindi,80,Dance,78,2022,CBSE
+171,Bhavya Singh,75,78,80,82,Hindi,82,Dance,80,2022,Gujarat Board
+172,Karan Reddy,94,92,88,90,Hindi,90,Psychology,88,2022,Tamil Nadu Board
+173,Ishaan Gupta,85,90,88,82,Hindi,82,Psychology,88,2022,West Bengal Board
+174,Ananya Patel,80,82,75,78,Hindi,78,Sociology,75,2022,Karnataka Board
+175,Vikram Reddy,96,95,92,94,Hindi,94,Arts,92,2022,Maharashtra Board
+176,Aditya Kumar,75,80,82,78,Hindi,78,Arts,82,2022,ICSE
+177,Anushka Sharma,98,96,95,97,Hindi,97,Music,95,2022,CISCE
+178,Arnav Singh,90,88,85,92,Hindi,92,Music,85,2022,IB
+179,Aditi Sharma,78,80,82,75,Hindi,75,Psychology,82,2022,CBSE
+180,Anika Reddy,90,85,88,84,Hindi,84,Sociology,88,2022,Gujarat Board
+181,Aditya Kumar,75,78,80,82,Hindi,82,Music,80,2023,ICSE
+182,Anika Gupta,78,80,82,75,Hindi,75,Music,82,2023,CISCE
+183,Aryan Patel,92,94,90,88,Hindi,88,Physical Education,90,2023,IB
+184,Aditi Sharma,82,75,78,80,Hindi,80,Dance,78,2023,CBSE
+185,Bhavya Singh,75,78,80,82,Hindi,82,Dance,80,2023,Gujarat Board
+186,Karan Reddy,94,92,88,90,Hindi,90,Psychology,88,2023,Tamil Nadu Board
+187,Ishaan Gupta,85,90,88,82,Hindi,82,Psychology,88,2023,West Bengal Board
+188,Ananya Patel,80,82,75,78,Hindi,78,Sociology,75,2023,Karnataka Board
+189,Vikram Reddy,96,95,92,94,Hindi,94,Arts,92,2023,Maharashtra Board
+190,Aditya Kumar,75,80,82,78,Hindi,78,Arts,82,2023,ICSE
+191,Anushka Sharma,98,96,95,97,Hindi,97,Music,95,2023,CISCE
+192,Arnav Singh,90,88,85,92,Hindi,92,Music,85,2023,IB
+193,Aditi Sharma,78,80,82,75,Hindi,75,Psychology,82,2023,CBSE
+194,Anika Reddy,90,85,88,84,Hindi,84,Sociology,88,2023,Gujarat Board
+195,Aryan Patel,92,94,90,88,Hindi,88,Arts,90,2023,Tamil Nadu Board
+196,Aditya Kumar,75,80,82,78,Hindi,78,Physical Education,82,2023,West Bengal Board
+197,Anushka Sharma,98,96,95,97,Hindi,97,Psychology,95,2023,Karnataka Board
+198,Arnav Singh,90,88,85,92,Hindi,92,Arts,85,2023,Maharashtra Board
+199,Ayush Patel,82,78,75,80,Hindi,80,Music,75,2023,ICSE
+200,Ananya Gupta,94,90,92,88,Hindi,88,Dance,92,2023,CISCE
+201,Aarav Reddy,88,85,90,84,Hindi,84,Psychology,90,2023,IB
+202,Aditi Reddy,75,82,78,80,Hindi,80,Sociology,78,2023,CBSE
+203,Bhavna Singh,80,75,82,78,Hindi,78,Arts,82,2023,Gujarat Board
+204,Krishna Patel,95,92,96,94,Hindi,94,Physical Education,96,2023,Tamil Nadu Board
+205,Aishwarya Reddy,85,88,84,90,Hindi,90,Psychology,84,2023,West Bengal Board
+206,Anshul Gupta,96,95,97,92,Hindi,92,Dance,97,2023,Karnataka Board
+207,Aditya Kumar,75,78,80,82,Hindi,82,Music,80,2023,ICSE
+208,Anika Gupta,78,80,82,75,Hindi,75,Music,82,2023,CISCE
+209,Aryan Patel,92,94,90,88,Hindi,88,Physical Education,90,2023,IB
+210,Aditi Sharma,82,75,78,80,Hindi,80,Dance,78,2023,CBSE
+211,Bhavya Singh,75,78,80,82,Hindi,82,Dance,80,2023,Gujarat Board
+212,Karan Reddy,94,92,88,90,Hindi,90,Psychology,88,2023,Tamil Nadu Board
+213,Ishaan Gupta,85,90,88,82,Hindi,82,Psychology,88,2023,West Bengal Board
+214,Ananya Patel,80,82,75,78,Hindi,78,Sociology,75,2023,Karnataka Board
+215,Vikram Reddy,96,95,92,94,Hindi,94,Arts,92,2023,Maharashtra Board
+216,Aditya Kumar,75,80,82,78,Hindi,78,Arts,82,2023,ICSE
+217,Anushka Sharma,98,96,95,97,Hindi,97,Music,95,2023,CISCE
+218,Arnav Singh,90,88,85,92,Hindi,92,Music,85,2023,IB
+219,Aditi Sharma,78,80,82,75,Hindi,75,Psychology,82,2023,CBSE
+220,Anika Reddy,90,85,88,84,Hindi,84,Sociology,88,2023,Gujarat Board
+221,Aditya Kumar,75,78,80,82,Gujarati,82,Music,80,2022,ICSE
+222,Anika Gupta,78,80,82,75,Assamese,75,Music,82,2022,CISCE
+223,Aryan Patel,92,94,90,88,Maithili,88,Physical Education,90,2022,IB
+224,Aditi Sharma,82,75,78,80,Bengali,80,Dance,78,2022,CBSE
+225,Bhavya Singh,75,78,80,82,Punjabi,82,Dance,80,2022,Gujarat Board
+226,Karan Reddy,94,92,88,90,Telugu,90,Psychology,88,2022,Tamil Nadu Board
+227,Ishaan Gupta,85,90,88,82,Oriya,82,Psychology,88,2022,West Bengal Board
+228,Ananya Patel,80,82,75,78,Malayalam,78,Sociology,75,2022,Karnataka Board
+229,Vikram Reddy,96,95,92,94,Kannada,94,Arts,92,2022,Maharashtra Board
+230,Aditya Kumar,75,80,82,78,Urdu,78,Arts,82,2022,ICSE
+231,Anushka Sharma,98,96,95,97,Hindi,97,Music,95,2022,CISCE
+232,Arnav Singh,90,88,85,92,Tamil,92,Music,85,2022,IB
+233,Aditi Sharma,78,80,82,75,Gujarati,75,Psychology,82,2022,CBSE
+234,Anika Reddy,90,85,88,84,Telugu,84,Sociology,88,2022,Gujarat Board
+235,Aryan Patel,92,94,90,88,Malayalam,88,Arts,90,2022,Tamil Nadu Board
+236,Aditya Kumar,75,80,82,78,Bengali,78,Physical Education,82,2022,West Bengal Board
+237,Anushka Sharma,98,96,95,97,Hindi,97,Psychology,95,2022,Karnataka Board
+238,Arnav Singh,90,88,85,92,Kannada,92,Arts,85,2022,Maharashtra Board
+239,Ayush Patel,82,78,75,80,Punjabi,80,Music,75,2022,ICSE
+240,Ananya Gupta,94,90,92,88,Assamese,88,Dance,92,2022,CISCE
+241,Aarav Reddy,88,85,90,84,Oriya,84,Psychology,90,2022,IB
+242,Aditi Reddy,75,82,78,80,Urdu,80,Sociology,78,2022,CBSE
+243,Bhavna Singh,80,75,82,78,Gujarati,78,Arts,82,2022,Gujarat Board
+244,Krishna Patel,95,92,96,94,Telugu,94,Physical Education,96,2022,Tamil Nadu Board
+245,Aishwarya Reddy,85,88,84,90,Malayalam,90,Psychology,84,2022,West Bengal Board
+246,Anshul Gupta,96,95,97,92,Kannada,92,Dance,97,2022,Karnataka Board
+247,Aditya Kumar,75,78,80,82,Urdu,82,Music,80,2022,ICSE
+248,Anika Gupta,78,80,82,75,Assamese,75,Music,82,2022,CISCE
+249,Aryan Patel,92,94,90,88,Maithili,88,Physical Education,90,2022,IB
+250,Aditi Sharma,82,75,78,80,Bengali,80,Dance,78,2022,CBSE
+251,Aditya Kumar,75,78,80,82,Gujarati,82,Music,80,2023,ICSE
+252,Anika Gupta,78,80,82,75,Assamese,75,Music,82,2023,CISCE
+253,Aryan Patel,92,94,90,88,Maithili,88,Physical Education,90,2023,IB
+254,Aditi Sharma,82,75,78,80,Bengali,80,Dance,78,2023,CBSE
+255,Bhavya Singh,75,78,80,82,Punjabi,82,Dance,80,2023,Gujarat Board
+256,Karan Reddy,94,92,88,90,Telugu,90,Psychology,88,2023,Tamil Nadu Board
+257,Ishaan Gupta,85,90,88,82,Oriya,82,Psychology,88,2023,West Bengal Board
+258,Ananya Patel,80,82,75,78,Malayalam,78,Sociology,75,2023,Karnataka Board
+259,Vikram Reddy,96,95,92,94,Kannada,94,Arts,92,2023,Maharashtra Board
+260,Aditya Kumar,75,80,82,78,Urdu,78,Arts,82,2023,ICSE
+261,Anushka Sharma,98,96,95,97,Hindi,97,Music,95,2023,CISCE
+262,Arnav Singh,90,88,85,92,Tamil,92,Music,85,2023,IB
+263,Aditi Sharma,78,80,82,75,Gujarati,75,Psychology,82,2023,CBSE
+264,Anika Reddy,90,85,88,84,Telugu,84,Sociology,88,2023,Gujarat Board
+265,Aryan Patel,92,94,90,88,Malayalam,88,Arts,90,2023,Tamil Nadu Board
+266,Aditya Kumar,75,80,82,78,Bengali,78,Physical Education,82,2023,West Bengal Board
+267,Anushka Sharma,98,96,95,97,Hindi,97,Psychology,95,2023,Karnataka Board
+268,Arnav Singh,90,88,85,92,Kannada,92,Arts,85,2023,Maharashtra Board
+269,Ayush Patel,82,78,75,80,Punjabi,80,Music,75,2023,ICSE
+270,Ananya Gupta,94,90,92,88,Assamese,88,Dance,92,2023,CISCE
+271,Aarav Reddy,88,85,90,84,Oriya,84,Psychology,90,2023,IB
+272,Aditi Reddy,75,82,78,80,Urdu,80,Sociology,78,2023,CBSE
+273,Bhavna Singh,80,75,82,78,Gujarati,78,Arts,82,2023,Gujarat Board
+274,Krishna Patel,95,92,96,94,Telugu,94,Physical Education,96,2023,Tamil Nadu Board
+275,Aishwarya Reddy,85,88,84,90,Malayalam,90,Psychology,84,2023,West Bengal Board
+276,Anshul Gupta,96,95,97,92,Kannada,92,Dance,97,2023,Karnataka Board
+277,Aditya Kumar,75,78,80,82,Urdu,82,Music,80,2023,ICSE
+278,Anika Gupta,78,80,82,75,Assamese,75,Music,82,2023,CISCE
+279,Aryan Patel,92,94,90,88,Maithili,88,Physical Education,90,2023,IB
+280,Aditi Sharma,82,75,78,80,Bengali,80,Dance,78,2023,CBSE
+281,Aditya Kumar,75,78,80,82,Gujarati,58,Music,50,2022,ICSE
+282,Anika Gupta,78,80,82,75,Assamese,45,Music,55,2022,CISCE
+283,Aryan Patel,92,94,90,88,Maithili,53,Physical Education,42,2022,IB
+284,Aditi Sharma,82,75,78,80,Bengali,60,Dance,45,2022,CBSE
+285,Bhavya Singh,75,78,80,82,Punjabi,50,Dance,52,2022,Gujarat Board
+286,Karan Reddy,94,92,88,90,Telugu,48,Psychology,58,2022,Tamil Nadu Board
+287,Ishaan Gupta,85,90,88,82,Oriya,56,Psychology,43,2022,West Bengal Board
+288,Ananya Patel,80,82,75,78,Malayalam,42,Sociology,47,2022,Karnataka Board
+289,Vikram Reddy,96,95,92,94,Kannada,59,Arts,44,2022,Maharashtra Board
+290,Aditya Kumar,75,80,82,78,Urdu,54,Arts,49,2022,ICSE
+291,Anushka Sharma,98,96,95,97,Hindi,42,Music,48,2022,CISCE
+292,Arnav Singh,90,88,85,92,Tamil,51,Music,59,2022,IB
+293,Aditi Sharma,78,80,82,75,Gujarati,47,Psychology,53,2022,CBSE
+294,Anika Reddy,90,85,88,84,Telugu,52,Sociology,40,2022,Gujarat Board
+295,Aryan Patel,92,94,90,88,Malayalam,40,Arts,58,2022,Tamil Nadu Board
+296,Aditya Kumar,75,80,82,78,Bengali,60,Physical Education,42,2022,West Bengal Board
+297,Anushka Sharma,98,96,95,97,Hindi,42,Psychology,56,2022,Karnataka Board
+298,Arnav Singh,90,88,85,92,Kannada,44,Arts,59,2022,Maharashtra Board
+299,Ayush Patel,82,78,75,80,Punjabi,57,Music,41,2022,ICSE
+300,Ananya Gupta,94,90,92,88,Assamese,46,Dance,53,2022,CISCE
+301,Aditya Kumar,75,78,80,82,Gujarati,58,Music,50,2023,ICSE
+302,Anika Gupta,78,80,82,75,Assamese,45,Music,55,2023,CISCE
+303,Aryan Patel,92,94,90,88,Maithili,53,Physical Education,42,2023,IB
+304,Aditi Sharma,82,75,78,80,Bengali,60,Dance,45,2023,CBSE
+305,Bhavya Singh,75,78,80,82,Punjabi,50,Dance,52,2023,Gujarat Board
+306,Karan Reddy,94,92,88,90,Telugu,48,Psychology,58,2023,Tamil Nadu Board
+307,Ishaan Gupta,85,90,88,82,Oriya,56,Psychology,43,2023,West Bengal Board
+308,Ananya Patel,80,82,75,78,Malayalam,42,Sociology,47,2023,Karnataka Board
+309,Vikram Reddy,96,95,92,94,Kannada,59,Arts,44,2023,Maharashtra Board
+310,Aditya Kumar,75,80,82,78,Urdu,54,Arts,49,2023,ICSE
+311,Anushka Sharma,98,96,95,97,Hindi,42,Music,48,2023,CISCE
+312,Arnav Singh,90,88,85,92,Tamil,51,Music,59,2023,IB
+313,Aditi Sharma,78,80,82,75,Gujarati,47,Psychology,53,2023,CBSE
+314,Anika Reddy,90,85,88,84,Telugu,52,Sociology,40,2023,Gujarat Board
+315,Aryan Patel,92,94,90,88,Malayalam,40,Arts,58,2023,Tamil Nadu Board
+316,Aditya Kumar,75,80,82,78,Bengali,60,Physical Education,42,2023,West Bengal Board
+317,Anushka Sharma,98,96,95,97,Hindi,42,Psychology,56,2023,Karnataka Board
+318,Arnav Singh,90,88,85,92,Kannada,44,Arts,59,2023,Maharashtra Board
+319,Ayush Patel,82,78,75,80,Punjabi,57,Music,41,2023,ICSE
+320,Ananya Gupta,94,90,92,88,Assamese,46,Dance,53,2023,CISCE
+321,Aditya Kumar,52,48,55,43,Gujarati,58,Music,50,2022,ICSE
+322,Anika Gupta,58,50,48,55,Assamese,45,Music,55,2022,CISCE
+323,Aryan Patel,55,43,52,48,Maithili,53,Physical Education,42,2022,IB
+324,Aditi Sharma,60,52,48,55,Bengali,60,Dance,45,2022,CBSE
+325,Bhavya Singh,43,52,48,60,Punjabi,50,Dance,52,2022,Gujarat Board
+326,Karan Reddy,48,55,43,52,Telugu,48,Psychology,58,2022,Tamil Nadu Board
+327,Ishaan Gupta,55,60,52,48,Oriya,56,Psychology,43,2022,West Bengal Board
+328,Ananya Patel,52,48,55,43,Malayalam,42,Sociology,47,2022,Karnataka Board
+329,Vikram Reddy,60,55,52,48,Kannada,59,Arts,44,2022,Maharashtra Board
+330,Aditya Kumar,48,60,55,52,Urdu,54,Arts,49,2022,ICSE
+331,Anushka Sharma,52,48,60,55,Hindi,42,Music,48,2022,CISCE
+332,Arnav Singh,60,55,52,48,Tamil,51,Music,59,2022,IB
+333,Aditi Sharma,55,52,48,60,Gujarati,47,Psychology,53,2022,CBSE
+334,Anika Reddy,48,55,52,60,Telugu,52,Sociology,40,2022,Gujarat Board
+335,Aryan Patel,55,60,52,48,Malayalam,40,Arts,58,2022,Tamil Nadu Board
+336,Aditya Kumar,52,48,55,43,Bengali,60,Physical Education,42,2022,West Bengal Board
+337,Anushka Sharma,60,55,52,48,Hindi,42,Psychology,56,2022,Karnataka Board
+338,Arnav Singh,55,52,48,60,Kannada,44,Arts,59,2022,Maharashtra Board
+339,Ayush Patel,43,52,48,55,Punjabi,57,Music,41,2022,ICSE
+340,Ananya Gupta,55,60,52,48,Assamese,46,Dance,53,2022,CISCE
+341,Aditya Kumar,52,48,55,43,Gujarati,58,Music,50,2023,ICSE
+342,Anika Gupta,58,50,48,55,Assamese,45,Music,55,2023,CISCE
+343,Aryan Patel,55,43,52,48,Maithili,53,Physical Education,42,2023,IB
+344,Aditi Sharma,60,52,48,55,Bengali,60,Dance,45,2023,CBSE
+345,Bhavya Singh,43,52,48,60,Punjabi,50,Dance,52,2023,Gujarat Board
+346,Karan Reddy,48,55,43,52,Telugu,48,Psychology,58,2023,Tamil Nadu Board
+347,Ishaan Gupta,55,60,52,48,Oriya,56,Psychology,43,2023,West Bengal Board
+348,Ananya Patel,52,48,55,43,Malayalam,42,Sociology,47,2023,Karnataka Board
+349,Vikram Reddy,60,55,52,48,Kannada,59,Arts,44,2023,Maharashtra Board
+350,Aditya Kumar,48,60,55,52,Urdu,54,Arts,49,2023,ICSE
+351,Anushka Sharma,52,48,60,55,Hindi,42,Music,48,2023,CISCE
+352,Arnav Singh,60,55,52,48,Tamil,51,Music,59,2023,IB
+353,Aditi Sharma,55,52,48,60,Gujarati,47,Psychology,53,2023,CBSE
+354,Anika Reddy,48,55,52,60,Telugu,52,Sociology,40,2023,Gujarat Board
+355,Aryan Patel,55,60,52,48,Malayalam,40,Arts,58,2023,Tamil Nadu Board
+356,Aditya Kumar,52,48,55,43,Bengali,60,Physical Education,42,2023,West Bengal Board
+357,Anushka Sharma,60,55,52,48,Hindi,42,Psychology,56,2023,Karnataka Board
+358,Arnav Singh,55,52,48,60,Kannada,44,Arts,59,2023,Maharashtra Board
+359,Ayush Patel,43,52,48,55,Punjabi,57,Music,41,2023,ICSE
+360,Ananya Gupta,55,60,52,48,Assamese,46,Dance,53,2023,CISCE
+361,Aditya Kumar,62,58,65,53,Gujarati,58,Music,50,2022,ICSE
+362,Anika Gupta,65,60,58,62,Assamese,45,Music,55,2022,CISCE
+363,Aryan Patel,58,55,62,60,Maithili,53,Physical Education,42,2022,IB
+364,Aditi Sharma,70,62,58,65,Bengali,60,Dance,45,2022,CBSE
+365,Bhavya Singh,53,58,60,70,Punjabi,50,Dance,52,2022,Gujarat Board
+366,Karan Reddy,60,65,53,58,Telugu,48,Psychology,58,2022,Tamil Nadu Board
+367,Ishaan Gupta,65,70,62,58,Oriya,56,Psychology,43,2022,West Bengal Board
+368,Ananya Patel,62,58,65,53,Malayalam,42,Sociology,47,2022,Karnataka Board
+369,Vikram Reddy,70,65,62,60,Kannada,59,Arts,44,2022,Maharashtra Board
+370,Aditya Kumar,58,70,65,62,Urdu,54,Arts,49,2022,ICSE
+371,Anushka Sharma,62,58,70,65,Hindi,42,Music,48,2022,CISCE
+372,Arnav Singh,65,60,58,62,Tamil,51,Music,59,2022,IB
+373,Aditi Sharma,60,62,58,70,Gujarati,47,Psychology,53,2022,CBSE
+374,Anika Reddy,60,55,58,70,Telugu,52,Sociology,40,2022,Gujarat Board
+375,Aryan Patel,62,65,60,58,Malayalam,40,Arts,58,2022,Tamil Nadu Board
+376,Aditya Kumar,58,60,65,53,Bengali,60,Physical Education,42,2022,West Bengal Board
+377,Anushka Sharma,70,65,62,58,Hindi,42,Psychology,56,2022,Karnataka Board
+378,Arnav Singh,65,60,58,62,Kannada,44,Arts,59,2022,Maharashtra Board
+379,Ayush Patel,53,62,58,65,Punjabi,57,Music,41,2022,ICSE
+380,Ananya Gupta,65,60,62,58,Assamese,46,Dance,53,2022,CISCE
+381,Aditya Kumar,62,58,65,53,Gujarati,58,Music,50,2023,ICSE
+382,Anika Gupta,65,60,58,62,Assamese,45,Music,55,2023,CISCE
+383,Aryan Patel,58,55,62,60,Maithili,53,Physical Education,42,2023,IB
+384,Aditi Sharma,70,62,58,65,Bengali,60,Dance,45,2023,CBSE
+385,Bhavya Singh,53,58,60,70,Punjabi,50,Dance,52,2023,Gujarat Board
+386,Karan Reddy,60,65,53,58,Telugu,48,Psychology,58,2023,Tamil Nadu Board
+387,Ishaan Gupta,65,70,62,58,Oriya,56,Psychology,43,2023,West Bengal Board
+388,Ananya Patel,62,58,65,53,Malayalam,42,Sociology,47,2023,Karnataka Board
+389,Vikram Reddy,70,65,62,60,Kannada,59,Arts,44,2023,Maharashtra Board
+390,Aditya Kumar,58,70,65,62,Urdu,54,Arts,49,2023,ICSE
+391,Anushka Sharma,62,58,70,65,Hindi,42,Music,48,2023,CISCE
+392,Arnav Singh,65,60,58,62,Tamil,51,Music,59,2023,IB
+393,Aditi Sharma,60,62,58,70,Gujarati,47,Psychology,53,2023,CBSE
+394,Anika Reddy,60,55,58,70,Telugu,52,Sociology,40,2023,Gujarat Board
+395,Aryan Patel,62,65,60,58,Malayalam,40,Arts,58,2023,Tamil Nadu Board
+396,Aditya Kumar,58,60,65,53,Bengali,60,Physical Education,42,2023,West Bengal Board
+397,Anushka Sharma,70,65,62,58,Hindi,42,Psychology,56,2023,Karnataka Board
+398,Arnav Singh,65,60,58,62,Kannada,44,Arts,59,2023,Maharashtra Board
+399,Ayush Patel,53,62,58,65,Punjabi,57,Music,41,2023,ICSE
+400,Ananya Gupta,65,60,62,58,Assamese,46,Dance,53,2023,CISCE
+401,Aditya Kumar,85,82,88,80,Gujarati,58,Music,50,2022,ICSE
+402,Anika Gupta,88,85,82,85,Assamese,45,Music,55,2022,CISCE
+403,Aryan Patel,82,80,85,88,Maithili,53,Physical Education,42,2022,IB
+404,Aditi Sharma,90,88,85,82,Bengali,60,Dance,45,2022,CBSE
+405,Bhavya Singh,80,82,85,90,Punjabi,50,Dance,52,2022,Gujarat Board
+406,Karan Reddy,86,84,80,82,Telugu,48,Psychology,58,2022,Tamil Nadu Board
+407,Ishaan Gupta,85,88,82,80,Oriya,56,Psychology,43,2022,West Bengal Board
+408,Ananya Patel,82,80,85,88,Malayalam,42,Sociology,47,2022,Karnataka Board
+409,Vikram Reddy,88,85,82,80,Kannada,59,Arts,44,2022,Maharashtra Board
+410,Aditya Kumar,85,90,88,85,Urdu,54,Arts,49,2022,ICSE
+411,Anushka Sharma,90,88,85,82,Hindi,42,Music,48,2022,CISCE
+412,Arnav Singh,88,85,82,90,Tamil,51,Music,59,2022,IB
+413,Aditi Sharma,80,85,82,90,Gujarati,47,Psychology,53,2022,CBSE
+414,Anika Reddy,80,82,85,90,Telugu,52,Sociology,40,2022,Gujarat Board
+415,Aryan Patel,82,85,80,88,Malayalam,40,Arts,58,2022,Tamil Nadu Board
+416,Aditya Kumar,85,82,88,80,Bengali,60,Physical Education,42,2022,West Bengal Board
+417,Anushka Sharma,90,88,85,82,Hindi,42,Psychology,56,2022,Karnataka Board
+418,Arnav Singh,85,82,80,88,Kannada,44,Arts,59,2022,Maharashtra Board
+419,Ayush Patel,80,82,85,90,Punjabi,57,Music,41,2022,ICSE
+420,Ananya Gupta,88,85,82,80,Assamese,46,Dance,53,2022,CISCE
+421,Aditya Kumar,85,82,88,80,Gujarati,58,Music,50,2023,ICSE
+422,Anika Gupta,88,85,82,85,Assamese,45,Music,55,2023,CISCE
+423,Aryan Patel,82,80,85,88,Maithili,53,Physical Education,42,2023,IB
+424,Aditi Sharma,90,88,85,82,Bengali,60,Dance,45,2023,CBSE
+425,Bhavya Singh,80,82,85,90,Punjabi,50,Dance,52,2023,Gujarat Board
+426,Karan Reddy,86,84,80,82,Telugu,48,Psychology,58,2023,Tamil Nadu Board
+427,Ishaan Gupta,85,88,82,80,Oriya,56,Psychology,43,2023,West Bengal Board
+428,Ananya Patel,82,80,85,88,Malayalam,42,Sociology,47,2023,Karnataka Board
+429,Vikram Reddy,88,85,82,80,Kannada,59,Arts,44,2023,Maharashtra Board
+430,Aditya Kumar,85,90,88,85,Urdu,54,Arts,49,2023,ICSE
+431,Anushka Sharma,90,88,85,82,Hindi,42,Music,48,2023,CISCE
+432,Arnav Singh,88,85,82,90,Tamil,51,Music,59,2023,IB
+433,Aditi Sharma,80,85,82,90,Gujarati,47,Psychology,53,2023,CBSE
+434,Anika Reddy,80,82,85,90,Telugu,52,Sociology,40,2023,Gujarat Board
+435,Aryan Patel,82,85,80,88,Malayalam,40,Arts,58,2023,Tamil Nadu Board
+436,Aditya Kumar,85,82,88,80,Bengali,60,Physical Education,42,2023,West Bengal Board
+437,Anushka Sharma,90,88,85,82,Hindi,42,Psychology,56,2023,Karnataka Board
+438,Arnav Singh,85,82,80,88,Kannada,44,Arts,59,2023,Maharashtra Board
+439,Ayush Patel,80,82,85,90,Punjabi,57,Music,41,2023,ICSE
+440,Ananya Gupta,88,85,82,80,Assamese,46,Dance,53,2023,CISCE
+441,Aaditya Verma,30,35,28,40,Gujarati,38,Music,40,2022,ICSE
+442,Ananya Tiwari,38,25,42,30,Assamese,25,Music,30,2022,CISCE
+443,Arvind Singh,40,38,35,28,Maithili,45,Physical Education,35,2022,IB
+444,Aditya Sharma,42,30,38,25,Bengali,25,Dance,42,2022,CBSE
+445,Bhaskar Patel,25,40,30,38,Punjabi,30,Dance,38,2022,Gujarat Board
+446,Kartik Reddy,35,42,25,40,Telugu,28,Psychology,45,2022,Tamil Nadu Board
+447,Ishan Gupta,30,38,42,25,Oriya,45,Psychology,25,2022,West Bengal Board
+448,Ananya Patel,38,35,40,28,Malayalam,25,Sociology,30,2022,Karnataka Board
+449,Vivek Reddy,42,25,38,35,Kannada,30,Arts,38,2022,Maharashtra Board
+450,Aditya Sharma,30,42,35,42,Urdu,25,Arts,42,2022,ICSE
+451,Anushka Singh,35,40,38,35,Hindi,45,Music,38,2022,CISCE
+452,Arnav Singh,40,38,35,42,Tamil,28,Music,25,2022,IB
+453,Aditi Verma,25,30,38,35,Gujarati,30,Psychology,30,2022,CBSE
+454,Anika Reddy,25,40,30,42,Telugu,35,Sociology,25,2022,Gujarat Board
+455,Aryan Patel,38,35,25,40,Malayalam,25,Arts,40,2022,Tamil Nadu Board
+456,Aditya Kumar,30,25,38,35,Bengali,42,Physical Education,25,2022,West Bengal Board
+457,Anushka Sharma,42,35,40,28,Hindi,25,Psychology,35,2022,Karnataka Board
+458,Arnav Singh,35,42,25,40,Kannada,30,Arts,38,2022,Maharashtra Board
+459,Ayush Patel,25,38,35,42,Punjabi,38,Music,30,2022,ICSE
+460,Ananya Gupta,38,35,40,28,Assamese,45,Dance,28,2022,CISCE
+461,Aaditya Verma,30,35,28,40,Gujarati,38,Music,40,2023,ICSE
+462,Ananya Tiwari,38,25,42,30,Assamese,25,Music,30,2023,CISCE
+463,Arvind Singh,40,38,35,28,Maithili,45,Physical Education,35,2023,IB
+464,Aditya Sharma,42,30,38,25,Bengali,25,Dance,42,2023,CBSE
+465,Bhaskar Patel,25,40,30,38,Punjabi,30,Dance,38,2023,Gujarat Board
+466,Kartik Reddy,35,42,25,40,Telugu,28,Psychology,45,2023,Tamil Nadu Board
+467,Ishan Gupta,30,38,42,25,Oriya,45,Psychology,25,2023,West Bengal Board
+468,Ananya Patel,38,35,40,28,Malayalam,25,Sociology,30,2023,Karnataka Board
+469,Vivek Reddy,42,25,38,35,Kannada,30,Arts,38,2023,Maharashtra Board
+470,Aditya Sharma,30,42,35,42,Urdu,25,Arts,42,2023,ICSE
+471,Anushka Singh,35,40,38,35,Hindi,45,Music,38,2023,CISCE
+472,Arnav Singh,40,38,35,42,Tamil,28,Music,25,2023,IB
+473,Aditi Verma,25,30,38,35,Gujarati,30,Psychology,30,2023,CBSE
+474,Anika Reddy,25,40,30,42,Telugu,35,Sociology,25,2023,Gujarat Board
+475,Aryan Patel,38,35,25,40,Malayalam,25,Arts,40,2023,Tamil Nadu Board
+476,Aditya Kumar,30,25,38,35,Bengali,42,Physical Education,25,2023,West Bengal Board
+477,Anushka Sharma,42,35,40,28,Hindi,25,Psychology,35,2023,Karnataka Board
+478,Arnav Singh,35,42,25,40,Kannada,30,Arts,38,2023,Maharashtra Board
+479,Ayush Patel,25,38,35,42,Punjabi,38,Music,30,2023,ICSE
+480,Ananya Gupta,38,35,40,28,Assamese,45,Dance,28,2023,CISCE
+481,Vivek Sharma,20,15,18,25,Gujarati,28,Music,30,2022,ICSE
+482,Kritika Singh,25,10,30,20,Assamese,15,Music,20,2022,CISCE
+483,Ananya Reddy,18,20,25,10,Maithili,35,Physical Education,10,2022,IB
+484,Rajesh Patel,30,18,20,15,Bengali,10,Dance,32,2022,CBSE
+485,Suresh Gupta,10,25,15,18,Punjabi,20,Dance,18,2022,Gujarat Board
+486,Shreya Reddy,15,30,10,20,Telugu,12,Psychology,35,2022,Tamil Nadu Board
+487,Raj Singh,20,18,25,10,Oriya,35,Psychology,10,2022,West Bengal Board
+488,Sakshi Patel,18,20,15,28,Malayalam,10,Sociology,15,2022,Karnataka Board
+489,Vikas Reddy,25,10,20,18,Kannada,15,Arts,18,2022,Maharashtra Board
+490,Anu Sharma,15,25,18,20,Urdu,10,Arts,25,2022,ICSE
+491,Sanjay Singh,10,30,25,18,Hindi,28,Music,15,2022,CISCE
+492,Varun Reddy,18,15,20,25,Tamil,12,Music,10,2022,IB
+493,Pooja Gupta,20,18,15,30,Gujarati,15,Psychology,20,2022,CBSE
+494,Suman Patel,20,15,18,30,Telugu,20,Sociology,10,2022,Gujarat Board
+495,Manoj Reddy,18,20,10,25,Malayalam,10,Arts,30,2022,Tamil Nadu Board
+496,Prashant Singh,15,18,20,10,Bengali,32,Physical Education,10,2022,West Bengal Board
+497,Simran Gupta,25,20,15,18,Hindi,10,Psychology,25,2022,Karnataka Board
+498,Rahul Reddy,20,15,18,25,Kannada,12,Arts,28,2022,Maharashtra Board
+499,Amit Patel,10,25,20,18,Punjabi,28,Music,15,2022,ICSE
+500,Priya Sharma,25,20,18,10,Assamese,35,Dance,12,2022,CISCE
+501,Vivek Sharma,20,15,18,25,Gujarati,28,Music,30,2023,ICSE
+502,Kritika Singh,25,10,30,20,Assamese,15,Music,20,2023,CISCE
+503,Ananya Reddy,18,20,25,10,Maithili,35,Physical Education,10,2023,IB
+504,Rajesh Patel,30,18,20,15,Bengali,10,Dance,32,2023,CBSE
+505,Suresh Gupta,10,25,15,18,Punjabi,20,Dance,18,2023,Gujarat Board
+506,Shreya Reddy,15,30,10,20,Telugu,12,Psychology,35,2023,Tamil Nadu Board
+507,Raj Singh,20,18,25,10,Oriya,35,Psychology,10,2023,West Bengal Board
+508,Sakshi Patel,18,20,15,28,Malayalam,10,Sociology,15,2023,Karnataka Board
+509,Vikas Reddy,25,10,20,18,Kannada,15,Arts,18,2023,Maharashtra Board
+510,Anu Sharma,15,25,18,20,Urdu,10,Arts,25,2023,ICSE
+511,Sanjay Singh,10,30,25,18,Hindi,28,Music,15,2023,CISCE
+512,Varun Reddy,18,15,20,25,Tamil,12,Music,10,2023,IB
+513,Pooja Gupta,20,18,15,30,Gujarati,15,Psychology,20,2023,CBSE
+514,Suman Patel,20,15,18,30,Telugu,20,Sociology,10,2023,Gujarat Board
+515,Manoj Reddy,18,20,10,25,Malayalam,10,Arts,30,2023,Tamil Nadu Board
+516,Prashant Singh,15,18,20,10,Bengali,32,Physical Education,10,2023,West Bengal Board
+517,Simran Gupta,25,20,15,18,Hindi,10,Psychology,25,2023,Karnataka Board
+518,Rahul Reddy,20,15,18,25,Kannada,12,Arts,28,2023,Maharashtra Board
+519,Amit Patel,10,25,20,18,Punjabi,28,Music,15,2023,ICSE
+520,Priya Sharma,25,20,18,10,Assamese,35,Dance,12,2023,CISCE
+521,Vivek Sharma,20,15,18,25,Gujarati,28,Music,30,2024,ICSE
+522,Kritika Singh,25,10,30,20,Assamese,15,Music,20,2024,CISCE
+523,Ananya Reddy,18,20,25,10,Maithili,35,Physical Education,10,2024,IB
+524,Rajesh Patel,30,18,20,15,Bengali,10,Dance,32,2024,CBSE
+525,Suresh Gupta,10,25,15,18,Punjabi,20,Dance,18,2024,Gujarat Board
+526,Shreya Reddy,15,30,10,20,Telugu,12,Psychology,35,2024,Tamil Nadu Board
+527,Raj Singh,20,18,25,10,Oriya,35,Psychology,10,2024,West Bengal Board
+528,Sakshi Patel,18,20,15,28,Malayalam,10,Sociology,15,2024,Karnataka Board
+529,Vikas Reddy,25,10,20,18,Kannada,15,Arts,18,2024,Maharashtra Board
+530,Anu Sharma,15,25,18,20,Urdu,10,Arts,25,2024,ICSE
+531,Sanjay Singh,10,30,25,18,Hindi,28,Music,15,2024,CISCE
+532,Varun Reddy,18,15,20,25,Tamil,12,Music,10,2024,IB
+533,Pooja Gupta,20,18,15,30,Gujarati,15,Psychology,20,2024,CBSE
+534,Suman Patel,20,15,18,30,Telugu,20,Sociology,10,2024,Gujarat Board
+535,Manoj Reddy,18,20,10,25,Malayalam,10,Arts,30,2024,Tamil Nadu Board
+536,Prashant Singh,15,18,20,10,Bengali,32,Physical Education,10,2024,West Bengal Board
+537,Simran Gupta,25,20,15,18,Hindi,10,Psychology,25,2024,Karnataka Board
+538,Rahul Reddy,20,15,18,25,Kannada,12,Arts,28,2024,Maharashtra Board
+539,Amit Patel,10,25,20,18,Punjabi,28,Music,15,2024,ICSE
+540,Priya Sharma,25,20,18,10,Assamese,35,Dance,12,2024,CISCE
+541,Rahul Verma,50,45,60,55,Gujarati,45,Music,40,2022,ICSE
+542,Priya Tiwari,55,40,62,50,Assamese,35,Music,55,2022,CISCE
+543,Krishna Singh,48,55,50,45,Maithili,53,Physical Education,42,2022,IB
+544,Manish Patel,60,52,48,65,Bengali,60,Dance,45,2022,CBSE
+545,Neeraj Gupta,40,50,55,60,Punjabi,50,Dance,52,2022,Gujarat Board
+546,Anjali Reddy,45,60,40,50,Telugu,48,Psychology,58,2022,Tamil Nadu Board
+547,Komal Singh,52,65,45,40,Oriya,56,Psychology,43,2022,West Bengal Board
+548,Prakash Patel,65,40,50,55,Malayalam,42,Sociology,47,2022,Karnataka Board
+549,Vijay Reddy,60,55,48,40,Kannada,59,Arts,44,2022,Maharashtra Board
+550,Anjali Sharma,45,65,60,55,Urdu,54,Arts,49,2022,ICSE
+551,Prakash Singh,60,50,65,52,Hindi,42,Music,48,2022,CISCE
+552,Vijay Reddy,65,48,55,60,Tamil,51,Music,59,2022,IB
+553,Arjun Verma,52,60,65,45,Gujarati,47,Psychology,53,2022,CBSE
+554,Ankita Patel,45,40,55,65,Telugu,52,Sociology,40,2022,Gujarat Board
+555,Komal Patel,48,55,40,65,Malayalam,40,Arts,58,2022,Tamil Nadu Board
+556,Prakash Singh,60,52,65,45,Bengali,60,Physical Education,42,2022,West Bengal Board
+557,Anjali Reddy,65,45,60,52,Hindi,42,Psychology,56,2022,Karnataka Board
+558,Vikas Singh,40,65,52,60,Kannada,44,Arts,59,2022,Maharashtra Board
+559,Priya Patel,55,60,48,65,Punjabi,57,Music,41,2022,ICSE
+560,Krishna Tiwari,60,52,62,48,Assamese,46,Dance,53,2022,CISCE
+561,Rahul Verma,50,45,60,55,Gujarati,45,Music,40,2023,ICSE
+562,Priya Tiwari,55,40,62,50,Assamese,35,Music,55,2023,CISCE
+563,Krishna Singh,48,55,50,45,Maithili,53,Physical Education,42,2023,IB
+564,Manish Patel,60,52,48,65,Bengali,60,Dance,45,2023,CBSE
+565,Neeraj Gupta,40,50,55,60,Punjabi,50,Dance,52,2023,Gujarat Board
+566,Anjali Reddy,45,60,40,50,Telugu,48,Psychology,58,2023,Tamil Nadu Board
+567,Komal Singh,52,65,45,40,Oriya,56,Psychology,43,2023,West Bengal Board
+568,Prakash Patel,65,40,50,55,Malayalam,42,Sociology,47,2023,Karnataka Board
+569,Vijay Reddy,60,55,48,40,Kannada,59,Arts,44,2023,Maharashtra Board
+570,Anjali Sharma,45,65,60,55,Urdu,54,Arts,49,2023,ICSE
+571,Prakash Singh,60,50,65,52,Hindi,42,Music,48,2023,CISCE
+572,Vijay Reddy,65,48,55,60,Tamil,51,Music,59,2023,IB
+573,Arjun Verma,52,60,65,45,Gujarati,47,Psychology,53,2023,CBSE
+574,Ankita Patel,45,40,55,65,Telugu,52,Sociology,40,2023,Gujarat Board
+575,Komal Patel,48,55,40,65,Malayalam,40,Arts,58,2023,Tamil Nadu Board
+576,Prakash Singh,60,52,65,45,Bengali,60,Physical Education,42,2023,West Bengal Board
+577,Anjali Reddy,65,45,60,52,Hindi,42,Psychology,56,2023,Karnataka Board
+578,Vikas Singh,40,65,52,60,Kannada,44,Arts,59,2023,Maharashtra Board
+579,Priya Patel,55,60,48,65,Punjabi,57,Music,41,2023,ICSE
+580,Krishna Tiwari,60,52,62,48,Assamese,46,Dance,53,2023,CISCE
+581,Rahul Verma,50,45,60,55,Gujarati,45,Music,40,2024,ICSE
+582,Priya Tiwari,55,40,62,50,Assamese,35,Music,55,2024,CISCE
+583,Krishna Singh,48,55,50,45,Maithili,53,Physical Education,42,2024,IB
+584,Manish Patel,60,52,48,65,Bengali,60,Dance,45,2024,CBSE
+585,Neeraj Gupta,40,50,55,60,Punjabi,50,Dance,52,2024,Gujarat Board
+586,Anjali Reddy,45,60,40,50,Telugu,48,Psychology,58,2024,Tamil Nadu Board
+587,Komal Singh,52,65,45,40,Oriya,56,Psychology,43,2024,West Bengal Board
+588,Prakash Patel,65,40,50,55,Malayalam,42,Sociology,47,2024,Karnataka Board
+589,Vijay Reddy,60,55,48,40,Kannada,59,Arts,44,2024,Maharashtra Board
+590,Anjali Sharma,45,65,60,55,Urdu,54,Arts,49,2024,ICSE
+591,Prakash Singh,60,50,65,52,Hindi,42,Music,48,2024,CISCE
+592,Vijay Reddy,65,48,55,60,Tamil,51,Music,59,2024,IB
+593,Arjun Verma,52,60,65,45,Gujarati,47,Psychology,53,2024,CBSE
+594,Ankita Patel,45,40,55,65,Telugu,52,Sociology,40,2024,Gujarat Board
+595,Komal Patel,48,55,40,65,Malayalam,40,Arts,58,2024,Tamil Nadu Board
+596,Prakash Singh,60,52,65,45,Bengali,60,Physical Education,42,2024,West Bengal Board
+597,Anjali Reddy,65,45,60,52,Hindi,42,Psychology,56,2024,Karnataka Board
+598,Vikas Singh,40,65,52,60,Kannada,44,Arts,59,2024,Maharashtra Board
+599,Priya Patel,55,60,48,65,Punjabi,57,Music,41,2024,ICSE
+600,Krishna Tiwari,60,52,62,48,Assamese,46,Dance,53,2024,CISCE
+601,Rahul Verma,28,20,25,15,Gujarati,18,Music,22,2022,ICSE
+602,Priya Tiwari,25,18,28,22,Assamese,12,Music,28,2022,CISCE
+603,Krishna Singh,22,25,20,18,Maithili,30,Physical Education,15,2022,IB
+604,Manish Patel,30,22,18,28,Bengali,28,Dance,20,2022,CBSE
+605,Neeraj Gupta,18,28,22,25,Punjabi,20,Dance,25,2022,Gujarat Board
+606,Anjali Reddy,20,30,15,22,Telugu,16,Psychology,28,2022,Tamil Nadu Board
+607,Komal Singh,25,22,18,20,Oriya,28,Psychology,12,2022,West Bengal Board
+608,Prakash Patel,30,18,20,25,Malayalam,15,Sociology,18,2022,Karnataka Board
+609,Vijay Reddy,28,25,22,18,Kannada,30,Arts,15,2022,Maharashtra Board
+610,Anjali Sharma,22,30,28,25,Urdu,24,Arts,20,2022,ICSE
+611,Prakash Singh,30,20,25,22,Hindi,15,Music,28,2022,CISCE
+612,Vijay Reddy,28,22,25,30,Tamil,18,Music,30,2022,IB
+613,Arjun Verma,20,28,30,22,Gujarati,15,Psychology,25,2022,CBSE
+614,Ankita Patel,18,20,25,30,Telugu,25,Sociology,12,2022,Gujarat Board
+615,Komal Patel,22,25,20,30,Malayalam,12,Arts,28,2022,Tamil Nadu Board
+616,Prakash Singh,30,22,18,25,Bengali,28,Physical Education,15,2022,West Bengal Board
+617,Anjali Reddy,30,15,20,28,Hindi,15,Psychology,30,2022,Karnataka Board
+618,Vikas Singh,20,30,22,25,Kannada,18,Arts,30,2022,Maharashtra Board
+619,Priya Patel,25,28,22,30,Punjabi,26,Music,18,2022,ICSE
+620,Krishna Tiwari,30,22,28,20,Assamese,24,Dance,22,2022,CISCE
+621,Rahul Verma,28,20,25,15,Gujarati,18,Music,22,2023,ICSE
+622,Priya Tiwari,25,18,28,22,Assamese,12,Music,28,2023,CISCE
+623,Krishna Singh,22,25,20,18,Maithili,30,Physical Education,15,2023,IB
+624,Manish Patel,30,22,18,28,Bengali,28,Dance,20,2023,CBSE
+625,Neeraj Gupta,18,28,22,25,Punjabi,20,Dance,25,2023,Gujarat Board
+626,Anjali Reddy,20,30,15,22,Telugu,16,Psychology,28,2023,Tamil Nadu Board
+627,Komal Singh,25,22,18,20,Oriya,28,Psychology,12,2023,West Bengal Board
+628,Prakash Patel,30,18,20,25,Malayalam,15,Sociology,18,2023,Karnataka Board
+629,Vijay Reddy,28,25,22,18,Kannada,30,Arts,15,2023,Maharashtra Board
+630,Anjali Sharma,22,30,28,25,Urdu,24,Arts,20,2023,ICSE
+631,Prakash Singh,30,20,25,22,Hindi,15,Music,28,2023,CISCE
+632,Vijay Reddy,28,22,25,30,Tamil,18,Music,30,2023,IB
+633,Arjun Verma,20,28,30,22,Gujarati,15,Psychology,25,2023,CBSE
+634,Ankita Patel,18,20,25,30,Telugu,25,Sociology,12,2023,Gujarat Board
+635,Komal Patel,22,25,20,30,Malayalam,12,Arts,28,2023,Tamil Nadu Board
+636,Prakash Singh,30,22,18,25,Bengali,28,Physical Education,15,2023,West Bengal Board
+637,Anjali Reddy,30,15,20,28,Hindi,15,Psychology,30,2023,Karnataka Board
+638,Vikas Singh,20,30,22,25,Kannada,18,Arts,30,2023,Maharashtra Board
+639,Priya Patel,25,28,22,30,Punjabi,26,Music,18,2023,ICSE
+640,Krishna Tiwari,30,22,28,20,Assamese,24,Dance,22,2023,CISCE
+641,Rahul Verma,28,20,25,15,Gujarati,18,Music,22,2024,ICSE
+642,Priya Tiwari,25,18,28,22,Assamese,12,Music,28,2024,CISCE
+643,Krishna Singh,22,25,20,18,Maithili,30,Physical Education,15,2024,IB
+644,Manish Patel,30,22,18,28,Bengali,28,Dance,20,2024,CBSE
+645,Neeraj Gupta,18,28,22,25,Punjabi,20,Dance,25,2024,Gujarat Board
+646,Anjali Reddy,20,30,15,22,Telugu,16,Psychology,28,2024,Tamil Nadu Board
+647,Komal Singh,25,22,18,20,Oriya,28,Psychology,12,2024,West Bengal Board
+648,Prakash Patel,30,18,20,25,Malayalam,15,Sociology,18,2024,Karnataka Board
+649,Vijay Reddy,28,25,22,18,Kannada,30,Arts,15,2024,Maharashtra Board
+650,Anjali Sharma,22,30,28,25,Urdu,24,Arts,20,2024,ICSE
+651,Prakash Singh,30,20,25,22,Hindi,15,Music,28,2024,CISCE
+652,Vijay Reddy,28,22,25,30,Tamil,18,Music,30,2024,IB
+653,Arjun Verma,20,28,30,22,Gujarati,15,Psychology,25,2024,CBSE
+654,Ankita Patel,18,20,25,30,Telugu,25,Sociology,12,2024,Gujarat Board
+655,Komal Patel,22,25,20,30,Malayalam,12,Arts,28,2024,Tamil Nadu Board
+656,Prakash Singh,30,22,18,25,Bengali,28,Physical Education,15,2024,West Bengal Board
+657,Anjali Reddy,30,15,20,28,Hindi,15,Psychology,30,2024,Karnataka Board
+658,Vikas Singh,20,30,22,25,Kannada,18,Arts,30,2024,Maharashtra Board
+659,Priya Patel,25,28,22,30,Punjabi,26,Music,18,2024,ICSE
+660,Krishna Tiwari,30,22,28,20,Assamese,24,Dance,22,2024,CISCE
