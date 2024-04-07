@@ -18,7 +18,7 @@ def result():
             file = "D:/login_nodejs/views/database.csv"
             df = pd.read_csv(file)
             df = df.drop(["S No"], axis=1)
-            maths_mean = df['Maths'].mean()
+            maths_mean = df['Maths'].mean() 
             science_mean = df['Science'].mean()
             sst_mean = df['Social Science'].mean()
             english_mean = df['English'].mean()
